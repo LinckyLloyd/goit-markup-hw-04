@@ -47,6 +47,9 @@ img {
     padding: 24px 0;
 
 }
+.header-class{
+    box-shadow: 0px 2px 1px rgba;
+}
 
 .navliststyle-header{
     display: flex;
@@ -366,7 +369,7 @@ img {
 .navliststyle{
     display: flex;
     align-items: center;
-    /* gap: 40px; */
+   
 }
 
 /* Portfolio Main */
@@ -420,18 +423,6 @@ img {
     column-gap: 24px;
     row-gap: 48px;
 }
-
-/* .portfolio-list-images .list-item{
-    width: calc((100% - 48px) / 3);
-} */
-
-/* .portfolio-list-images .list-item:nth-child(3n){
-    margin-right: 0;
-} */
-
-/* .portfolio-list-images .list-item:nth-last-child(-n+3){
-    margin-bottom: 0;
-} */
 
 /* Styling the default link class */
 .default-link {

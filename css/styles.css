@@ -295,8 +295,11 @@ img {
 .footerstyle{
     background-color: var(--grey);
     padding: 100px 0;
+}
 
-
+.footer-div{
+    display: flex;
+    align-items: flex-start;
 }
 
 .footerlogo{

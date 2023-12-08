@@ -348,7 +348,7 @@ img {
     padding: 24px 0;
 }
 
-.portfolioallbutton{
+.portfolio-filter-button{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -381,16 +381,17 @@ img {
 }
 
 
-.portfolioallbutton{
+.portfolio-filter-button{
     padding: 12px 24px 12px;
     border-radius: 4px;
     border: 1px solid #e7e9fc;
     }
 
-.portfolioallbutton:hover, .portfolioallbutton:focus {
+.portfolio-filter-button:hover, .portfolio-filter-button:focus {
     color: #FFFFFF;
     background-color: #404BBF;
     border: 1px solid transparent;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
 
 }
 
@@ -513,8 +514,14 @@ img {
 }
 
 /* Styling the default link class */
-.default-link {
+.portfolio-footer-link {
     text-decoration: none;
+}
+
+.portfolio-footer-link:hover, .portfolio-footer-link:focus{
+    display: block;
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+
 }
 
 /* Styling the custom header class */

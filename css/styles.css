@@ -404,11 +404,11 @@ img {
     height: 88px;
 }
 
-/* .customers-svg{
+.customers-svg{
     width: 104;
     height: 56;
     fill: currentColor;
-} */
+}
 
 .sectiondiv{
     display: flex;

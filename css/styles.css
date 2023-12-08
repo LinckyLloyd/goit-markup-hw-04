@@ -275,7 +275,7 @@ img {
     justify-content: center;
 }
 
-..social-media-link:hover, .social-media-link:focus {
+.social-media-link:hover, .social-media-link:focus {
     background: var(--ocean);
 }
 

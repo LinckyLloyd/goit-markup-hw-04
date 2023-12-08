@@ -297,9 +297,8 @@ img {
     padding: 100px 0;
 }
 
-.footer-div{
-    display: flex;
-    align-items: flex-start;
+.div-wrap{
+   margin-right: 120px;
 }
 
 .footerlogo{
@@ -326,8 +325,8 @@ img {
 
 }
 
-.wrap-logo-paragraph{
-    margin-right: 120px;
+.div-flex{
+    display: flex;
 }
 
 /* Portfolio */

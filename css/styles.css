@@ -321,8 +321,13 @@ img {
 
 }
 
-.div-flex{
+.div-wrap{
     display: flex;
+    align-items: baseline;
+}
+
+.div-wrap-logo{
+    margin-right: 120px;
 }
 
 /* Portfolio */

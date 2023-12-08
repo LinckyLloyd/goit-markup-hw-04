@@ -364,6 +364,13 @@ img {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: var(--cloud) ;
+    border-radius: 4px;
+    margin-bottom: 8px;
 }
 
 .navliststyle{

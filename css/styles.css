@@ -251,6 +251,14 @@ img {
     text-align: center;
 }
 
+/* Section 5 */
+
+.customersection{
+    padding-top: 120px;
+    padding-bottom: 120px;
+
+}
+
 /* Footer */
 .footerstyle{
     background-color: var(--grey);
@@ -364,6 +372,14 @@ img {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+}
+
+.customertitle{
+    font-size: 36px;
+    line-height: 1.11;
+    color: var(--grey);
+    margin-bottom: 72px;
+
 }
 
 .sectiondiv{

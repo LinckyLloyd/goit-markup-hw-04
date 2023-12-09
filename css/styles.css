@@ -299,6 +299,8 @@ img {
 
 .footerdiv{
     display: flex;
+}
+.divwrap{}
     align-items: flex-start;
 }
 

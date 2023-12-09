@@ -490,6 +490,11 @@ img {
     color: #f4f4fd;
 }
 
+
+.div-wrap-logo-paragraph{
+    margin-right: 120px;
+}
+
 /* Portfolio Images */
 .default-list {
     list-style: none;

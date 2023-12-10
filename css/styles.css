@@ -300,6 +300,10 @@ img {
 .footer-content-wrap{
     display: flex;
     align-items: baseline;
+}
+
+.logo-paragraph{
+    margin-right: 120px;
     gap: 120px;
 }
 
@@ -522,14 +526,7 @@ img {
     text-transform: uppercase;
     color: var(--iris);
 }
-.divwrap{
-    display: flex;
-    align-items: baseline;
-}
-.wrap-content{
-    display: flex;
-    align-items: flex-start;
-}
+
 
 .portfolio-footerinside-logo{
     color: #f4f4fd;

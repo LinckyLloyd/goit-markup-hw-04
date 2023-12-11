@@ -518,7 +518,7 @@ img {
     background-color: var(--navy-blue);
 }
 
-.portfolio-footer-logo{
+/* .portfolio-footer-logo{
     font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -526,7 +526,7 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--iris);
-}
+} */
 
 
 .portfolio-footerinside-logo{
